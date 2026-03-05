@@ -1,0 +1,2 @@
+# Comandos Básicos Linux 
+##pwd
